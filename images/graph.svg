@@ -1,0 +1,25 @@
+
+<svg width="161px" height="162px" viewBox="120 5 161 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="200.185788" cy="14.1969156" rx="8.43558012" ry="8.46942239"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.8711602" height="16.9388448" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="199.969071" cy="32.2158478" rx="8.65145702" ry="8.68616535"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17.302914" height="17.3723307" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <ellipse id="path-5" cx="200.401665" cy="50.8864364" rx="8.65145702" ry="8.68616535"></ellipse>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17.302914" height="17.3723307" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <path d="M200.523927,14.411488 C160.796747,14.411488 128.591505,46.7459325 128.591505,86.6324911 C128.591505,126.51905 160.796747,158.853494 200.523927,158.853494 C240.251106,158.853494 272.456348,126.51905 272.456348,86.6324911" id="Oval-138" stroke="#FE5F55" stroke-width="16" stroke-linecap="round" fill="none" transform="translate(200.523927, 86.632491) scale(-1, 1) translate(-200.523927, -86.632491) "></path>
+    <path d="M254.043723,32.2136771 C224.179349,32.2136771 199.969491,56.4162086 199.969491,86.2715442 C199.969491,116.12688 224.179349,140.329411 254.043723,140.329411" id="Oval-138-Copy" stroke="#17AFFF" stroke-width="16" stroke-linecap="round" fill="none" transform="translate(227.006607, 86.271544) scale(-1, 1) translate(-227.006607, -86.271544) "></path>
+    <path d="M235.898624,50.8842658 C215.808022,50.8842658 200.402085,67.1698508 200.402085,87.3410533" id="Oval-138-Copy-2" stroke="#FFF913" stroke-width="16" stroke-linecap="round" fill="none" transform="translate(218.150354, 69.112660) scale(-1, 1) translate(-218.150354, -69.112660) "></path>
+    <use id="Oval-141" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="9.6" fill="#FE5F55" fill-rule="evenodd" xlink:href="#path-1"></use>
+    <use id="Oval-141-Copy" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="9.6" fill="#18AFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+    <use id="Oval-141-Copy-2" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="9.6" fill="#FFDA15" fill-rule="evenodd" xlink:href="#path-5"></use>
+</svg>
