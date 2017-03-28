@@ -9,71 +9,80 @@
     <title>Buddy's Great Day</title>
   </head>
   <body>
+<div class='super-wrapper'>
   <header class="header">
-    <h1>Buddy's Day</h1>
+    <h1>Buddy's Great Day</h1>
     <div class="cloud-wrapper">
       <img class="cloud" src="./images/cloud.svg"/>
       <p class="cloud-date">3/15</p>
+      <p class="cloud-temp">50° F</p>
     </div>
   </header>
+<div class="column-wrapper">
+  <div class="left-column">
+    <section class="profile">
+      <img src="./images/buddy.jpg" class="dog-pic"/>
+      <p class="bond-strength">Bond Strength:</p>
 
-  <section class="profile">
-    <img src="./images/buddy.jpg" class="dog-pic"/>
-    <div class="star-bar">
-      <img src="./images/star.svg" class="stars"/>
-      <img src="./images/star.svg" class="stars"/>
-      <img src="./images/star.svg" class="stars"/>
-      <img src="./images/blank-star.svg" class="stars"/>
-      <img src="./images/blank-star.svg" class="stars"/>
-    </div>
-  </section>
-  <div class="bottom-sec">
-    <section class="graph">
-      <div>
-        <p class="food">Food Eaten : 75%</p>
-        <p class="steps">Steps Today: 50%</p>
-        <p class="buttz">Buttz Sniffed: 25%</p>
+      <div class="star-bar">
+        <img src="./images/star.svg" class="stars"/>
+        <img src="./images/star.svg" class="stars"/>
+        <img src="./images/star.svg" class="stars"/>
+        <img src="./images/blank-star.svg" class="stars"/>
+        <img src="./images/blank-star.svg" class="stars"/>
       </div>
-      <img src="./images/graph.svg" class="daily-graph"/>
     </section>
-
-    <section class="dog-friends-section">
-      <h1>Dog Friends!<h1/>
-        <img/>
-        <p>-played together at the dog park</p>
-        <img/>
-        <p>-Meet me on Thursday!</p>
-        <img/>
-        <p>-Going to the vet, wish me luck</p>
+    <div class="bottom-sec">
+      <section class="graph">
+        <img src="./images/graph.svg" class="daily-graph"/>
+      </section>
+      <section class="stats">
+        <div class="highlights">
+          <p class="single-highlight minus">-Walk at 6:30</p>
+          <p class="single-highlight minus">-Feed at 7</p>
+          <p class="todays-highlights">Today's Highlights</p>
+          <p class="single-highlight plus">+ Ran outside for a long time!</p>
+          <p class="single-highlight plus">+ Extra treats</p>
+        </div>
       </section>
   </div>
-
-  <section class="stats">
-    <div class="highlights">
-      <p class="single-highlight minus">-Walk at 6:30</p>
-      <p class="single-highlight minus">-Feed at 7</p>
-      <p class="todays-highlights">Today's Highlights</p>
-      <p class="single-highlight plus">+ Ran outside for a long time!</p>
-      <p class="single-highlight plus">+ Extra treats</p>
+</div>
+    
+    <div class="right-column">
+      <section class="map-section">
+        <img src="./images/dog-map.png"/>
+      </section>
+      <section class="dog-friends-section">
+        <h1 class="dog-friends-header">Dog Friends!</h1>
+          <div class="friend-wrapper">
+            <img src="./images/friend1.png"/>
+            <p class='dog-notes'>-played together at the dog park</p>
+          </div>
+          <div class="friend-wrapper">
+            <img src="./images/friend2.png"/>
+            <p class='dog-notes'>-Meet me on Thursday!</p>
+          </div>
+          <div class="friend-wrapper">
+            <img src="./images/friend3.png"/>
+            <p class='dog-notes'>-Going to the vet, wish me luck</p>
+          </div>
+        </section>
     </div>
-  </section>
+    
+    
 
-  <section class="map-section">
-    <img src="./images/map.svg"/>
-  </section>
-
-
+</div>
 
   <nav>
-    <button class="nav-button">Back</button>
+    <button class="nav-button back">Back</button>
+    <button class="nav-button home">Home</button>
     <button class="nav-button">Maps</button>
     <button class="nav-button">Data</button>
     <button class="nav-button">History</button>
+    <button class="nav-button desktop friday">Friday, 3/15</button>
   </nav>
-
-  <footer>
-  </footer>
-
-
+  
+  <footer class="useless"></footer>
+</div>
   </body>
 </html>

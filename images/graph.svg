@@ -1,25 +1,36 @@
 
-<svg width="161px" height="162px" viewBox="120 5 161 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="327px" height="199px" viewBox="135 522 327 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
     <defs>
-        <ellipse id="path-1" cx="200.185788" cy="14.1969156" rx="8.43558012" ry="8.46942239"></ellipse>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.8711602" height="16.9388448" fill="white">
+        <ellipse id="path-1" cx="233.183445" cy="20.0630682" rx="9.82606036" ry="9.88099279"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.6521207" height="19.7619856" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <ellipse id="path-3" cx="199.969071" cy="32.2158478" rx="8.65145702" ry="8.68616535"></ellipse>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17.302914" height="17.3723307" fill="white">
+        <ellipse id="path-3" cx="232.931006" cy="41.0851557" rx="10.0775214" ry="10.1338596"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.1550427" height="20.2677192" fill="white">
             <use xlink:href="#path-3"></use>
         </mask>
-        <ellipse id="path-5" cx="200.401665" cy="50.8864364" rx="8.65145702" ry="8.68616535"></ellipse>
-        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17.302914" height="17.3723307" fill="white">
+        <ellipse id="path-5" cx="233.434906" cy="62.8675091" rx="10.0775214" ry="10.1338596"></ellipse>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.1550427" height="20.2677192" fill="white">
             <use xlink:href="#path-5"></use>
         </mask>
     </defs>
-    <path d="M200.523927,14.411488 C160.796747,14.411488 128.591505,46.7459325 128.591505,86.6324911 C128.591505,126.51905 160.796747,158.853494 200.523927,158.853494 C240.251106,158.853494 272.456348,126.51905 272.456348,86.6324911" id="Oval-138" stroke="#FE5F55" stroke-width="16" stroke-linecap="round" fill="none" transform="translate(200.523927, 86.632491) scale(-1, 1) translate(-200.523927, -86.632491) "></path>
-    <path d="M254.043723,32.2136771 C224.179349,32.2136771 199.969491,56.4162086 199.969491,86.2715442 C199.969491,116.12688 224.179349,140.329411 254.043723,140.329411" id="Oval-138-Copy" stroke="#17AFFF" stroke-width="16" stroke-linecap="round" fill="none" transform="translate(227.006607, 86.271544) scale(-1, 1) translate(-227.006607, -86.271544) "></path>
-    <path d="M235.898624,50.8842658 C215.808022,50.8842658 200.402085,67.1698508 200.402085,87.3410533" id="Oval-138-Copy-2" stroke="#FFF913" stroke-width="16" stroke-linecap="round" fill="none" transform="translate(218.150354, 69.112660) scale(-1, 1) translate(-218.150354, -69.112660) "></path>
-    <use id="Oval-141" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="9.6" fill="#FE5F55" fill-rule="evenodd" xlink:href="#path-1"></use>
-    <use id="Oval-141-Copy" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="9.6" fill="#18AFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
-    <use id="Oval-141-Copy-2" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="9.6" fill="#FFDA15" fill-rule="evenodd" xlink:href="#path-5"></use>
+    <g id="DIAGRAM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(135.000000, 522.000000)">
+        <path d="M233.577321,20.3134026 C187.301706,20.3134026 149.787907,58.0369212 149.787907,104.57124 C149.787907,151.105558 187.301706,188.829077 233.577321,188.829077 C279.852936,188.829077 317.366735,151.105558 317.366735,104.57124" id="Oval-138" stroke="#FE5F55" stroke-width="19" stroke-linecap="round" transform="translate(233.577321, 104.571240) scale(-1, 1) translate(-233.577321, -104.571240) "></path>
+        <path d="M295.919061,41.0826233 C261.131989,41.0826233 232.931495,69.3189101 232.931495,104.150135 C232.931495,138.98136 261.131989,167.217647 295.919061,167.217647" id="Oval-138-Copy" stroke="#17AFFF" stroke-width="19" stroke-linecap="round" transform="translate(264.425278, 104.150135) scale(-1, 1) translate(-264.425278, -104.150135) "></path>
+        <path d="M274.783013,62.8649767 C251.380773,62.8649767 233.435396,81.8648259 233.435396,105.397895" id="Oval-138-Copy-2" stroke="#FFF913" stroke-width="19" stroke-linecap="round" transform="translate(254.109204, 84.131436) scale(-1, 1) translate(-254.109204, -84.131436) "></path>
+        <text id="Food-Eaten:-75%" font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" line-spacing="32" fill="#F6655C">
+            <tspan x="65.4180176" y="19.7597136">Food Eaten: 75%</tspan>
+        </text>
+        <text id="Steps-Today:-50%" font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" line-spacing="32" fill="#00B7FB">
+            <tspan x="52.6543457" y="43.0355006">Steps Today: 50%</tspan>
+        </text>
+        <text id="Buttz-Sniffed:-25%" font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" line-spacing="32" fill="#FFF913">
+            <tspan x="51.0644162" y="67">Buttz Sniffed: 25%</tspan>
+        </text>
+        <use id="Oval-141" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="9.6" fill="#FE5F55" xlink:href="#path-1"></use>
+        <use id="Oval-141-Copy" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="9.6" fill="#18AFFF" xlink:href="#path-3"></use>
+        <use id="Oval-141-Copy-2" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="9.6" fill="#FFDA15" xlink:href="#path-5"></use>
+    </g>
 </svg>
