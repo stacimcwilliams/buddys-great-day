@@ -119,6 +119,16 @@ button {
   padding: 10px;
 }
 
+nav {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-button {
+  margin: 10px;
+}
+
 .footer{
   height:25%;
   width: 100%;
@@ -135,7 +145,7 @@ button {
 }
 
 
-@media (min-width: 400px) {
+@media (min-width: 420px) {
 
 
 .dog-friends-section{
