@@ -67,9 +67,13 @@ h1 {
   background-color: #4F6367;
 }
 
-.daily-graph {
-  margin: 10px;
+.graph{
+  text-align: center;
 }
+
+/*.daily-graph {
+  margin: 10px;
+}*/
 
 .todays-highlights{
   margin: 20px 0 20px 0;
@@ -157,7 +161,9 @@ footer{
 }
 
 
-@media (min-width: 420px) {
+@media (min-width: 846px) {
+
+
 
 .dog-friends-section{
   display: block;
@@ -165,6 +171,7 @@ footer{
   border: 4px solid #4F6367;
   border-radius: 25px;
   margin: 20px;
+  margin-top: 58px;
 }
 
 .map-section{
@@ -275,15 +282,21 @@ nav {
   width: 250px;
 }
 
+/*
+@media (min-width: 720px) {
+
+.graph{
+  text-align: center;
+}
+
+
+}*/
+
+
 
 }
 
 
-
-
-
-
-}
 
 
 
