@@ -21,7 +21,7 @@ Sketch Comp
 ![Imgur](http://i.imgur.com/wMTLrgR.png)
 
 ### Overview of Project Approach
-- We worked as a team to tackle this project. We pair programmed and started by building out the mobile view. Once that was completed we worked our way out to the desktop view. 
+- We worked as a team to tackle this project and collaborated with the design team. . We pair programmed and started by building out the mobile view. Once that was completed we worked our way out to the desktop view.
 
 Final - Mobile View
 ![Imgur](http://i.imgur.com/GGSk0jo.png)
