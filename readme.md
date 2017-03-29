@@ -27,4 +27,4 @@ Final - Mobile View
 ![Imgur](http://i.imgur.com/GGSk0jo.png)
 
 Final - Desktop View
-![Imgur](http://i.imgur.com/3caBA9c.png)
+![Imgur](http://i.imgur.com/aJZPwpM.png)
